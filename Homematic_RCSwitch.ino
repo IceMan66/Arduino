@@ -1,6 +1,5 @@
 /*
 
-
 // ATMEL ATTINY84 / ARDUINO
 //
 //                  +-\/-+
@@ -70,20 +69,6 @@ HMChannel_t HMRXPins[] = {
 };
 
 
-
-/*
-HMChannel_t HMRXPins[] = {
-  {PA1,-1,'a',1,1}, // RCSwitch No. A1
-  {PA2,-1,'a',1,2}, // RCSwitch No. A2
-  {PA3,-1,'a',1,3}, // RCSwitch No. A3
-  {PA4,-1,'b',1,1}, // RCSwitch No. B1
-  {PA7,-1,'b',1,2}, // RCSwitch No. B2
-  {PB0,-1,'b',1,3},  // RCSwitch No. B3
-  {PB1,-1,'c',1,1},  // RCSwitch No. C1
-  {PB2,-1,'c',1,2},  // RCSwitch No. C2
-};
-
-*/
 
 void setup() {
 
